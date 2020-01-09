@@ -13,7 +13,7 @@ C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\bin\Debug\nunit.frame
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\bin\Debug\nunit.framework.xml
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\bin\Debug\WebDriver.xml
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\bin\Debug\WebDriver.Support.xml
-C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\obj\Debug\i.uaEmailTestTask.csprojAssemblyReference.cache
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\obj\Debug\i.uaEmailTestTask.csproj.CopyComplete
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\obj\Debug\i.uaEmailTestTask.exe
 C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\obj\Debug\i.uaEmailTestTask.pdb
+C:\Programming\C#\i.ua\i.uaEmailTestTask\i.uaEmailTestTask\obj\Debug\i.uaEmailTestTask.csprojAssemblyReference.cache
